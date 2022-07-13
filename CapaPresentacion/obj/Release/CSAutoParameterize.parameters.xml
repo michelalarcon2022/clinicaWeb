@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="local_clinica-Web.config Connection String" description="local_clinica Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source= LAPTOP-8SCML711\SQLEXPRESS; Initial Catalog=DBClinica_test; User ID=admin; Password=123456;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\alarc\\OneDrive\\Documentos\\proyectos\ Michael\ Git\\C\#\\PROYECTO-GUIA\\SISTEMA-WEB\\Curso-ASP\.NET-2016-master\\ProyectoWeb\\CapaPresentacion\\CapaPresentacion\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='local_clinica']/@connectionString" />
+  </parameter>
+  <parameter name="DBClinica_testConnectionString-Web.config Connection String" description="DBClinica_testConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=.;Initial Catalog=DBClinica_test;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\alarc\\OneDrive\\Documentos\\proyectos\ Michael\ Git\\C\#\\PROYECTO-GUIA\\SISTEMA-WEB\\Curso-ASP\.NET-2016-master\\ProyectoWeb\\CapaPresentacion\\CapaPresentacion\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBClinica_testConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

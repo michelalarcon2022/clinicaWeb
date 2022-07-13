@@ -1,0 +1,9 @@
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaAccesoDatos.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaAccesoDatos.pdb
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaEntidades.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\bin\Release\CapaEntidades.pdb
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaAccesoDatos\obj\Release\CapaAccesoDatos.pdb

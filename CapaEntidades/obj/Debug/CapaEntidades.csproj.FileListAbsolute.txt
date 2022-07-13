@@ -1,0 +1,10 @@
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb

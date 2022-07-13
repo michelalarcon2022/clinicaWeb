@@ -1,0 +1,12 @@
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaLogicaNegocio.dll.config
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaLogicaNegocio.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaLogicaNegocio.pdb
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaAccesoDatos.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaEntidades.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaAccesoDatos.pdb
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\bin\Release\CapaEntidades.pdb
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.dll
+C:\Users\alarc\OneDrive\Documentos\proyectos Michael Git\C#\PROYECTO-GUIA\SISTEMA-WEB\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaLogicaNegocio\obj\Release\CapaLogicaNegocio.pdb
